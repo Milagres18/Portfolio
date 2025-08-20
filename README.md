@@ -1,0 +1,2 @@
+# Portfolio
+Olá! Este é o meu portfólio profissional, onde compartilho alguns dos projetos que desenvolvi para praticar, aprender e demonstrar minhas habilidades.  Aqui você vai encontrar:  Projetos pessoais e acadêmicos. Códigos organizados e comentados  Meu objetivo com este portfólio é mostrar um pouco do que sei fazer e continuar evoluindo como profissional.  Fique à vontade para explorar os repositórios!
