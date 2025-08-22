@@ -18,7 +18,7 @@ Estruturação de páginas com HTML5
 
 Estilização com CSS3 (responsividade, animações, organização)
 
-Comportamento dinâmico com JavaScript Vanilla
+Comportamento dinâmico com JavaScript
 
 ✨ Funcionalidades
 
