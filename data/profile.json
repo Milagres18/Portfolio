@@ -1,6 +1,6 @@
 {
-  "name": "Bernardo Costa Milagres",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "name": "Bernardo Milagres",
+  "photo": "https://avatars.githubusercontent.com/u/105474440?v=4",
   "job": "Full-Stack Developer",
   "location": "Belo Horizonte - MG",
   "phone": "(31) 98487-0753",
@@ -12,24 +12,24 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "JS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       },
       {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       }
     ],
     "softSkills": [
@@ -47,13 +47,8 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
-    },
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Criação de uma Pokedex",
+      "url": "https://milagres18.github.io/Pokedex/",
       "github": true
     }
   ],
@@ -61,7 +56,7 @@
     {
       "name": "Desenvolvedor Full-Stack - Estágio / Editora Fórum",
       "period": "2023 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "description": "Desenvolver uma aplicação agradável ao usuário, ágil e estruturada em boas práticas de UI/UX. Novas implementações e/ou manutenções específicas nas camadas de controle e persistência de dados. Corroborar com testes manuais, testes unitários, END-TO-END e/ou testes automatizados."
     }
   ]
 }

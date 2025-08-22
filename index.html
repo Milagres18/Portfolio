@@ -27,15 +27,15 @@
         <main class="main">
             <header class="header"> 
                 
-                <img src="assets/img/WhatsApp Image 2025-08-18 at 14.18.25 (1).jpeg" alt="Foto Bernardo" class="photo">
+                <img src="assets/img/WhatsApp Image 2025-08-18 at 14.18.25 (1).jpeg" alt="Foto Bernardo" class="photo" id="profile.photo">
 
-                <h1 class="title">Olá <br> Eu sou o Bernardo</h1>
+                <h1 class="title">Olá <br> Eu sou <span id="profile.name">Carregando...</span></h1>
 
                 <div class="informations">
-                    <p class="job">Desenvolvedor Full-Stack</p>
-                    <p class="location">Minas Gerais - BR</p>
-                    <p class="phone"><a href="tel:(31) 98487-0753">(31) 98487-0753</a></p>
-                    <p class="email"><a href="mailto:bernardo2618@gmail.com">bernardo2618@gmail.com</a></p>
+                    <p class="job" id="profile.job">Carregando...</p>
+                    <p class="location" id="profile.location">Carregando...</p>
+                    <p class="phone"><a href="tel:(31) 98487-0753" id="profile.phone">Carregando...</a></p>
+                    <p class="email"><a href="mailto:bernardo2618@gmail.com" id="profile.email">Carregando...</a></p>
                 </div>
 
             </header>
@@ -49,7 +49,7 @@
                     <div class="skills">
                         <section class="tools">
                             <h3>Ferramentas:</h3>
-                            <ul>
+                            <ul id="profile.skills.hardSkills">
                                 <li>
                                     <img src="assets/img/tools/nodejs.svg" alt="node" title="node">
                                 </li>
@@ -70,12 +70,10 @@
 
                         <section class="personal">
                             <h3>Habilidades pessoais:</h3>
-                            <ul>
-                                <li>Liderança</li>
-                                <li>Comunicativo</li>
-                                <li>Proativo</li>
-                                <li>Curioso</li>
-                                <li>Disciplinado</li>
+                            <ul id="profile.skills.softSkills">
+                                <li>Carregando...</li>
+                                <li>Carregando...</li>
+                                <li>Carregando...</li>
                             </ul>
                         </section>
                     </div>
@@ -88,10 +86,10 @@
                 </button>
 
                 <div class="content">
-                    <ul class="languages">
-                        <li>Português</li>
-                        <li>Inglês</li>
-                        <li>Espanhol</li>
+                    <ul class="languages" id="profile.languages">
+                        <li>Carregando...</li>
+                        <li>Carregando...</li>
+                        <li>Carregando...</li>
                     </ul>
                 </div>
             </section>
@@ -102,20 +100,10 @@
                 </button>
 
                 <div class="content">
-                    <ul class="portfolio">
+                    <ul class="portfolio" id="profile.portfolio">
                         <li>
-                            <h3 class="title github">Criando um App</h3>
-                            <a href="" target="_blank">jshdjshjdhsjdhjs</a>
-                        </li>
-
-                        <li>
-                            <h3 class="title github">Criando um App</h3>
-                            <a href="" target="_blank">jshdjshjdhsjdhjs</a>
-                        </li>
-
-                        <li>
-                            <h3 class="title github">Criando um App</h3>
-                            <a href="" target="_blank">jshdjshjdhsjdhjs</a>
+                            <h3 class="title github">Carregando..</h3>
+                            <a href="" target="_blank">Carregando..</a>
                         </li>
                     </ul>
                 </div>
@@ -127,7 +115,7 @@
                 </button>
 
                 <div class="content">
-                    <ul class="experiencia">
+                    <ul class="experiencia" id="profile.professionalExperience">
                         <li>
                             <h3 class="title">Full-Stack Developer / Estágio</h3>
                             <span class="periodo">Jan 2023 - Current</span>
@@ -142,5 +130,7 @@
         </main>
 
         <script src="assets/js/acordeon.js"></script>
+        <script src="assets/js/api.js"></script>
+        <script src="assets/js/main.js"></script>
     </body>
 </html> 
