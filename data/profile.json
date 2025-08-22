@@ -13,11 +13,11 @@
       },
       {
         "name": "JS",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/js.png"
+        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/github.png"
+        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       },
       {
         "name": "React",
@@ -25,11 +25,11 @@
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/html.png"
+        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
         "name": "CSS",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/css.png"
+        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       }
     ],
     "softSkills": [
